@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">✨ Creating Websites<br>📚 I'm currently learning Cybersecurity<br>🎯 Goals: to be a cybersec expert<br>🎲 Fun fact: i join H4ck4Gov</h5>
+<h5 align="left">✨ Creating Websites<br>📚 I'm currently learning Cybersecurity<br>🎯 Goals: to be a cybersec expert<br>🎲 Fun fact: Did you know that tha group of panda is called embarrasment?</h5>
 
 ###
 
